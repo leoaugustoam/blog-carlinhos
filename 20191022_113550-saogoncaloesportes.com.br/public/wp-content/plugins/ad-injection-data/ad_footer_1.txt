@@ -1,0 +1,3 @@
+<a href="http://www.google.com.br>
+<img src="http://blogdobg.s3.amazonaws.com/media/Banner_728x90px.gif" class="aligncenter" />
+</a>
